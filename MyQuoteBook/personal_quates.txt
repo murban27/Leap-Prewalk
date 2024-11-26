@@ -1,2 +1,4 @@
 Michal Urban
 Conflict will be there "master" 
+Changes for git diff
+Push origins
